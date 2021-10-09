@@ -1,0 +1,4 @@
+1  apt update
+2  wget https://raw.githubusercontent.com/theonemule/simple-openvpn-server/master/openvpn.sh
+3  chmod +x openvpn.sh
+4  ./openvpn.sh --adminpassword=123456789876543210
